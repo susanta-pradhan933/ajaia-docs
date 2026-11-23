@@ -1,0 +1,12 @@
+# Render Blueprint: New > Blueprint > point at this repo.
+# Free plan: the filesystem is ephemeral, so the SQLite DB resets (and re-seeds
+# demo data) when the service restarts or redeploys. See README "Deployment".
+services:
+  - type: web
+    name: ajaia-docs
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/auth/me
+    envVars:
+      - key: NODE_ENV
+        value: production

@@ -1,0 +1,6 @@
+Standup notes - Monday
+
+Alice: finished the import flow.
+Bob: reviewing sharing permissions.
+
+Blockers: none.
