@@ -2,7 +2,7 @@
 
 ## Links
 
-- **Live app:** _TODO: deployed URL_
+- **Live app:** https://ajaia-docs-988q.onrender.com (Render free tier: first load after ~15 min idle takes ~30–50 s to wake; data resets to the demo seed on restart)
 - **Walkthrough video:** see `VIDEO_URL.txt`
 - **Test accounts:** `alice@ajaia.test`, `bob@ajaia.test`, `carol@ajaia.test`. No password: click the account on the login screen. Use two browser windows (one private) to test sharing.
 
