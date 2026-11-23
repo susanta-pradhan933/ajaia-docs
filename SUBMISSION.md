@@ -3,7 +3,8 @@
 ## Links
 
 - **Live app:** https://ajaia-docs-988q.onrender.com (Render free tier: first load after ~15 min idle takes ~30–50 s to wake; data resets to the demo seed on restart)
-- **Walkthrough video:** see `VIDEO_URL.txt`
+- **Walkthrough video:** https://drive.google.com/file/d/1ERbEhmq5PHFFDZJiApAt5ilAUWi8ETbw/view (also in `VIDEO_URL.txt`)
+- **Google Drive folder:** https://drive.google.com/drive/folders/1aH4pnM7jvl5RFF-NwJKFSSc8XYTAg70_
 - **Test accounts:** `alice@ajaia.test`, `bob@ajaia.test`, `carol@ajaia.test`. No password: click the account on the login screen. Use two browser windows (one private) to test sharing.
 
 ## What's included

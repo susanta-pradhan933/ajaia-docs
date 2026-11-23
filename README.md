@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor: create, format, import and share documents in the browser.
 
-**Live app:** https://ajaia-docs-988q.onrender.com (free tier: first load after idle can take ~30–50 s) · **Walkthrough video:** see [`VIDEO_URL.txt`](VIDEO_URL.txt)
+**Live app:** https://ajaia-docs-988q.onrender.com (free tier: first load after idle can take ~30–50 s) · **Walkthrough video:** https://drive.google.com/file/d/1ERbEhmq5PHFFDZJiApAt5ilAUWi8ETbw/view · **Submission folder:** https://drive.google.com/drive/folders/1aH4pnM7jvl5RFF-NwJKFSSc8XYTAg70_
 
 ## Demo accounts
 
